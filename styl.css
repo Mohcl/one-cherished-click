@@ -54,7 +54,7 @@ h1{
     font-size:x-large;
 }
 nav{
-    background-image:url("borders.jpg");
+    background-image:url("images/borders.jpg");
     padding:20px;
     border:4px solid lightpink;
     border-radius:4px 6px;
@@ -135,6 +135,6 @@ form{
     padding:0px;
     color:red;
     text-align:center;
-    background-image:url("fill the from png.png");
+    background-image:url("images/fill\ the\ from\ png.png");
 }
 
